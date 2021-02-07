@@ -17,3 +17,12 @@ Explanation of the abbreviation ESE - Easy Social Engineering
 Ie the HSE view is the view from the original version(without the icon and a good menu and bad name)
 
 The ESE view is a view where everything is well done(there is an icon and a good menu and good name)
+TipeV-Tipe virus
+# All TipeV:
+# DV-Deleteneng virus
+Virus that deletes data from your phone (SD card)
+
+# Viruses:
+
+# BrawlStarsChit
+Name:BrawlStarsChit tipe:ESE version:0.1 tipeV:DV
