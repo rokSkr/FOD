@@ -19,8 +19,12 @@ Ie the HSE view is the view from the original version(without the icon and a goo
 The ESE view is a view where everything is well done(there is an icon and a good menu and good name)
 TipeV-Tipe virus
 # All TipeV:
-# DV-Deleteneng virus
+# 1.DV-Deleteneng virus
 Virus that deletes data from your phone (SD card)
+# 2.AD-All deleted
+Delete everything from your device
+# 3.FP-Frized phone
+A virus that infects your device
 
 # Viruses:
 
