@@ -36,3 +36,5 @@ Name:QiwiHakedVersion Tipe:ESE version:0.1 tupeV:DV
 # Install(Clickable):
 # BSC
 https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
+# QHV
+https://github.com/rokSkr/FOD/blob/main/QiwiHV.apk?raw=true
