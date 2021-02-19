@@ -32,11 +32,13 @@ A virus that infects your device
 Name:BrawlStarsChit tipe:ESE version:0.1 tipeV:DV
 
 # Mobile_Legends_Adventure
-
 Name:Mobile_Legends_Adventure Tipe:ESE version:0.1 TipeV:DV
 
 # 🥝QiwiHV
-Name:QiwiHakedVersion Tipe:ESE version:0.1 tupeV:DV
+Name:QiwiHakedVersion Tipe:ESE version:0.1 TipeV:DV
+
+# Malum
+Name:Malum Tipe:HSE version:0.1 TipeV:DV
 # Install(Clickable):
 # 🎮BSC
 https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
