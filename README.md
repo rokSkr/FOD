@@ -39,6 +39,10 @@ Name:QiwiHakedVersion Tipe:ESE version:0.1 TipeV:DV
 
 # Malum
 Name:Malum Tipe:HSE version:0.1 TipeV:DV
+
+# FBCR2K18
+Name:FBCR2K18 Tipe:HSE version:0.1 TipeV:DV
+
 # Install(Clickable):
 # 🎮BSC
 https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
