@@ -57,3 +57,15 @@ Name:vi4a Tipe:HSE version:0.1 TipeV:DV
 https://github.com/rokSkr/FOD/raw/main/BrawlStarsChit2.apk
 # 🥝QHV
 https://github.com/rokSkr/FOD/blob/main/QiwiHV.apk?raw=true
+# 🏀FBCR2K18
+https://github.com/rokSkr/FOD/blob/main/FBCR2K18.apk?raw=true
+# Malum
+https://github.com/rokSkr/FOD/blob/main/Malum.apk?raw=true
+# 🎮MLA
+https://github.com/rokSkr/FOD/blob/main/Mobile_Legends_Adventure.apk?raw=true
+# 🍻TakeBeer
+https://github.com/rokSkr/FOD/blob/main/TakeBeer.apk?raw=true
+# 👽Mobelejen
+https://github.com/rokSkr/FOD/blob/main/mobelejen.apk?raw=trueob
+# 🎣vi4a
+https://github.com/rokSkr/FOD/blob/main/vi4a.apk?raw=true
