@@ -43,8 +43,11 @@ Name:Malum Tipe:HSE version:0.1 TipeV:DV
 # FBCR2K18
 Name:FBCR2K18 Tipe:HSE version:0.1 TipeV:DV
 
-#TakeBeer
+# TakeBeer
 Name:TakeBeer Tipe:ESE version:0.1 TipeV:DV
+
+# mobelejen
+Name:mobelejen Tipe:HSE version:0.1 TipeV:DV
 
 # Install(Clickable):
 # 🎮BSC
